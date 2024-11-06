@@ -25,3 +25,6 @@ Hi, I am a student who wants to become skilled programmer.<br>Besides programmin
 [![](https://visitcount.itsvg.in/api?id=JSlayer93&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 😎 My Custom Octocat
+
+![My Octocat](https://i.imgur.com/EXVEqog.png)
